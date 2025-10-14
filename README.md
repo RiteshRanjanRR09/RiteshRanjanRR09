@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am Ritesh Ranjan, student at Vellore Institute of Technology (VIT), currently pursuing B.Tech in Computer Science and Engineering (CSE) with a specialization in Artificial Intelligence and Machine Learning (AI-ML).
-how to reach me:- riteshranjan6936@gmail.com
+I am Ritesh Ranjan, student at Vellore Institute of Technology (VIT), currently pursuing B.Tech in Computer Science and Engineering (CSE) with a specialization in Artificial Intelligence and Machine Learning (AI-ML).</br>
+how to reach me:- riteshranjan6936@gmail.com</br>
                   http://www.linkedin.com/in/ritesh-ranjan-ba36b338a
 <!--
 **RiteshRanjanRR09/RiteshRanjanRR09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
